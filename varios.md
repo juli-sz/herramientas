@@ -95,3 +95,6 @@ Este recurso de MDN Web Docs explica en detalle cómo usar CSS para estilizar el
 
 Esta guía de Adobe ayuda a entender cómo combinar colores y elegir fuentes en CSS, alineando el diseño de la página web con las especificaciones del proyecto en Figma.
 
+---
+https://github.com/facebook/docusaurus
+
